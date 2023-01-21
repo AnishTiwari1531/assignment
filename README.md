@@ -1,6 +1,6 @@
 # assignment
 
-This Project is a small demontration on SignUp and Login with Google and Facebook Accounts. 
+This Project is a small demonstration on SignUp and Login with Google and Facebook Accounts. 
 
 # Tech stack used
 Node Js, Express, MySql, React.
